@@ -1,1 +1,0 @@
-Just a simple repo where I'm planning on implementing all data structures that would be useful.
